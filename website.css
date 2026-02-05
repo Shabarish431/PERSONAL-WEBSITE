@@ -1,0 +1,127 @@
+nav{
+    background-color: blanchedalmond;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp3477365.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Footer{
+    background-color: black;
+    text-align: center;
+}
+Footer a{
+    text-decoration: none;
+    color: white;
+}
+#linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    cursor: pointer;
+}
+#Home{
+#My_Name{
+    text-align: left;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Dancing Script;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#About_Qualification{
+    font-size: 25px;
+    font-weight: bold;
+}
+#About_Me{
+    display: grid;
+    grid-template-columns: 1fr 400px;
+    column-gap: 50px;
+}
+#Image_Me{
+    width:100%;
+}
+#Education{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Pacifico;
+}
+#Background_Acad{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 2px;
+}
+th,td{
+    width: 30%;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 2px;
+    line-height: 30px;
+}
+}
+#Hobbies{
+#Heading{
+    font-family: roboto;
+    text-align: center;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp3477365.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#About_Hob{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: none;
+}
+th{
+    width: 50%;
+    text-align: left;
+}
+h1{
+    text-align: left;
+}
+}
+#Projects{
+#About_Pro{
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    text-align: left;
+}
+header{
+    text-align: center;
+    font-family: roboto;
+}
+h1{
+    text-align: left;
+}
+}
+#Contact{
+header{
+    text-align: center;
+    font-size: 30px;
+    font-family: Roboto;
+}
+td{
+    border: solid;
+}
+#About_Con{
+    margin-left: auto;
+    margin-right: auto;
+}
+}
